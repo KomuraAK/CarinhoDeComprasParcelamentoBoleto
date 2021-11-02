@@ -1,0 +1,43 @@
+.home-header {
+    color: #FFF;
+    text-align: center;
+    padding: auto;
+    background-color: rgb(20, 225, 222);
+}
+h1 {
+    float: left;
+    margin-left: 15px;
+}
+.link-cart {
+    color: #FFF;
+    font-size: 30pt;
+    margin-left: 80%;
+}
+.list-books {
+    display: flex;
+    font-size:  13pt;
+    background-color: rgb(143, 142, 142);
+}
+.list-row {
+    color: #000;
+    text-align: center;
+    margin: 10% auto;
+    padding: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14pt;
+    background-color: rgba(255, 255, 255, 0.63);
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;   
+}
+.list-button {
+    cursor: pointer;
+    height: 40px;
+    padding: 10px;
+    line-height: 20px;
+    border-radius: 25px;
+    font-size: 14pt;
+    color: #FFF;
+    border: 1px solid #000;
+    background-color: rgb(18, 37, 204);
+}
